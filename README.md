@@ -1,10 +1,10 @@
-# Telegram Voice Chat King
+# Telegram Voice Chat RE
 
 UserBot Telegram untuk Memutar Audio dalam Obrolan Suara.
 
 ## Deploy ke Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/apisuserbot/tgvc-King/tree/dev)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yunosainth/tgvc-King/tree/dev)
 
 **Fitur**
 
@@ -40,7 +40,7 @@ Akun.
 • Music dan tgvc adalah seputar bot dan userbot yang di gunakan untuk menghibur warga telegram dengan pesan bersuara!
   
  🐱 Channel Update : [Channel Update](https://t.me/MusicPr0jEctTElegram)
- ⚡️𝙍𝙀𝙋𝙊 𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡️ : [King-Userbot](https://github.com/apisuserbot/King-Userbot)
+ ⚡️𝙍𝙀𝙋𝙊 𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡️ : [King-Userbot](https://github.com/yunosainth/King-Userbot)
  🤖 Pemilik : [MR.404](https://t.me/PacarFerdilla)
 
 # License
